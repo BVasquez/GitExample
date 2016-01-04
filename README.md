@@ -1,2 +1,2 @@
 # GitExample
-This repository is just practice
+This repository is just for practice
